@@ -1,0 +1,8 @@
+
+lists all in reverse time stamp or newest, so oldest on top, and most recent 
+on bottom, in a human readable format, showing sizes in K am Mb etc. and 
+grouping directories on top.
+
+ls --group-directories-first -lrth
+
+
