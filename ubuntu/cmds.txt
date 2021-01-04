@@ -6,3 +6,7 @@ grouping directories on top.
 ls --group-directories-first -lrth
 
 
+tar coomand to Extract Tar onto a folder
+
+tar -xvf xxx.tar.gz destination-Folder
+
